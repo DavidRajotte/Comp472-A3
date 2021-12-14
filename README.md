@@ -1,1 +1,1 @@
-# Comp472-A3
+Run from top to bottom with the corresponding data in jupyter notebook 
